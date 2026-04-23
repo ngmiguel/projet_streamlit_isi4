@@ -1,4 +1,4 @@
-matplotlib
 numpy
 pandas
-seaborn
+scikit_learn
+streamlit
